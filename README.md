@@ -26,9 +26,9 @@
     This is a learning project of a landing page for a business. 
     <br />
     <br />
-    <a href="https://github.com/github_OJane1/bakery/issues">Report Bug</a>
+    <a href="https://github.com/OJane1/bakery/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_OJane1/bakery/issues">Request Feature</a>
+    <a href="https://github.com/OJane1/bakery/issues">Request Feature</a>
   </p>
 </div>
 
