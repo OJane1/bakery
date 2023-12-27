@@ -25,7 +25,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][[linkedin-url](https://www.linkedin.com/in/olga-petrashova/)]
+[![LinkedIn][linkedin-shield]][[linkedin-url]
 
 
 
